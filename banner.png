@@ -52,7 +52,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>template_portfolio/README.md at master · carlosfab/template_portfolio</title>
+  <title>template_portfolio/banner.png at master · carlosfab/template_portfolio</title>
     <meta name="description" content="Template para portfólio de Data Science. Contribute to carlosfab/template_portfolio development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -66,11 +66,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/40249689/ws?session=eyJ2IjoiVjMiLCJ1Ijo0MDI0OTY4OSwicyI6NjU1OTY1MjcyLCJjIjozNTE3NzI5ODUsInQiOjE2MTQ3MDU2Nzl9--5e97ade39a814b19133a49149757e98e9de47d524bde1a59f727a834c127bb2a" data-refresh-url="/_alive">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/40249689/ws?session=eyJ2IjoiVjMiLCJ1Ijo0MDI0OTY4OSwicyI6NjU1OTY1MjcyLCJjIjoxNDE1MDUxOTQ4LCJ0IjoxNjE0NzA1Njg0fQ==--d806a16c1f2df127eb96379d3e94347dced46797e1e0da4cbc02578556a37482" data-refresh-url="/_alive">
     <link rel="shared-web-socket-src" href="/socket-worker-5029ae85.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="410D:4864:1F610E:345979:603E73F0" data-pjax-transient="true" /><meta name="html-safe-nonce" content="e24e764addb2b362e2db7d247873f90f3f0ebc5effa9fd604b1e946ca0589b29" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9jYXJsb3NmYWIvdGVtcGxhdGVfcG9ydGZvbGlvIiwicmVxdWVzdF9pZCI6IjQxMEQ6NDg2NDoxRjYxMEU6MzQ1OTc5OjYwM0U3M0YwIiwidmlzaXRvcl9pZCI6IjU5ODc4MjExNjY5MTAxMjk4MDIiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="867bdf25f05caf7d3af0337de93d0cfaf5c3e477b7e4579a74de72571935102c" data-pjax-transient="true" />
+  <meta name="request-id" content="410D:4864:1F6226:345B11:603E740F" data-pjax-transient="true" /><meta name="html-safe-nonce" content="e24e764addb2b362e2db7d247873f90f3f0ebc5effa9fd604b1e946ca0589b29" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9jYXJsb3NmYWIvdGVtcGxhdGVfcG9ydGZvbGlvIiwicmVxdWVzdF9pZCI6IjQxMEQ6NDg2NDoxRjYyMjY6MzQ1QjExOjYwM0U3NDBGIiwidmlzaXRvcl9pZCI6IjU5ODc4MjExNjY5MTAxMjk4MDIiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="c1d4d66db0e4cbbadc996d229aea2a693e17905157613670ddfefba173b1382f" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:238567978" data-pjax-transient>
 
@@ -109,7 +109,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="OWQ3YjQxMDJmNzlmY2VkZDAzYTM2Mzk3ZDkzZmU0MjNkZTNhZWRmMDllNGRkMmE0YTlhYTNjYTJkZDIyMDNkYXx7InJlbW90ZV9hZGRyZXNzIjoiNDUuNjUuMTQ3LjI0NyIsInJlcXVlc3RfaWQiOiI0MTBEOjQ4NjQ6MUY2MTBFOjM0NTk3OTo2MDNFNzNGMCIsInRpbWVzdGFtcCI6MTYxNDcwNTY3OSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="ZWEwZTNmZDNjNTJmYTkxM2Y2ZTBiZGVkOGE1YmU0NWNiMzkyNGY1MGRmOWM3YTAwYTY5ZWU2NGQxZmNiYTVjM3x7InJlbW90ZV9hZGRyZXNzIjoiNDUuNjUuMTQ3LjI0NyIsInJlcXVlc3RfaWQiOiI0MTBEOjQ4NjQ6MUY2MjI2OjM0NUIxMTo2MDNFNzQwRiIsInRpbWVzdGFtcCI6MTYxNDcwNTY4NCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS">
 
@@ -124,7 +124,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/carlosfab/template_portfolio/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/carlosfab/template_portfolio/blob/master/banner.png" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -198,7 +198,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="UEns4bwRBYKGq0faISsGJBJ1muXyJfby6dbZCeFJg1+P30fBWyk1zJ3sLjLgMacUjNJOzFldwEOHPX9gIrS6Fg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="44wD8nQfZrdfo2IsUbPFUGf392Oe6jHnKthkiCbkgP08GqjSkydW+UTkC8SQqWRg+VAjSjWSB1ZEM8Lh5Rm5tA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -386,7 +386,7 @@
       <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/40249689?s=40&amp;v=4" width="20" height="20" alt="@adalcirjunior" />
       adalcirjunior
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pNcgTbqHOrbuKWH302vm9gAMsq3HxQ7ILnN0y4ZEDp2QX6ZmdvBJmaaXwzS3ojxxY/JPaY71/pQxIJpPaqBAwQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FkkoSNiA2s07OI9NLhRuo7SP3/LjeBTaDkaY38jdBrgiwa5jFPep4nOGLY5K3bQk13EiNqpI5IYRFXZbJDlI5A==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -406,7 +406,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDAyNDk2ODkiLCJ0IjoxNjE0NzA1Njc5fQ==--066446685b9158acfbadb833f1a41e241c8c50032f61d1165fc438be6ae7148c">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDAyNDk2ODkiLCJ0IjoxNjE0NzA1Njg0fQ==--a61dc19747c2f08074fc95e30d68c4db77b76d378097774f39d3bc1764c4c84d">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -579,7 +579,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:238567978,&quot;originating_url&quot;:&quot;https://github.com/carlosfab/template_portfolio/blob/master/README.md&quot;,&quot;user_id&quot;:40249689}}" data-hydro-click-hmac="91cab1c774132be88d9d4113a182efdf2569d3f68f6e9d96795c30ea007adb1e" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
+      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:238567978,&quot;originating_url&quot;:&quot;https://github.com/carlosfab/template_portfolio/blob/master/banner.png&quot;,&quot;user_id&quot;:40249689}}" data-hydro-click-hmac="982e2133b59ee41afd0d6b007562b4b26c1489b93aaa481ad9acd30b66e9f2c1" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
           <span data-menu-button>
             <span
               hidden
@@ -623,7 +623,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="g8SQ/IMgI/qIcDLNfrZnJCDTat7Y7nQ526hlHFR5gpSBCYdtJUutK4cisH/8dmorfGzc0f5v8lHSI+JZ52eDeA==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="X3Bf2hpO5bMPO+UxMWs7RGUxBTXSQZei7h2uFM6Q/5RdvUhLvCVrYgBpZ4OzqzZLOY6zOvTAEcrnlilRfY7+eA==" />
 
                 <input type="hidden" name="repository_id" value="238567978">
 
@@ -725,7 +725,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PpgwaBVJ5DuKa5YXAFzFBA+QZj9CznrlDe6lSOLEZIY8VSf5syJq6oU5FKWCnMgLUy/QMGRP/I0EZSINUdplag==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YBaTS201IyzDltSSNP1DnwE0B5d4EuKhxEH1JmaXwNdi24Tay16t/czEViC2PU6QXYuxmF6TZMnNynJj1YnBOw==" />
 
               <input type="hidden" name="repository_id" value="238567978">
 
@@ -861,9 +861,9 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/carlosfab/template_portfolio/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8gDe4UJgTWD0aax2F7XsfP2rVQ3eq0rGGn7TqTuDJqktD4v0TXJaMwfJjW6OtIoE/Qcm2fRUA1HNeHiE9m2wvQ==" />
+    <form class="starred js-social-form" action="/carlosfab/template_portfolio/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7BI2pszoxumf7QRzoZGVUK8qUtnaY4Q0vLbzrTl8xVwzHWOzw/rRumxNJWs4kPMor4YhDfCczaNrsFiA9JJTSA==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar carlosfab/template_portfolio" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:238567978,&quot;originating_url&quot;:&quot;https://github.com/carlosfab/template_portfolio/blob/master/README.md&quot;,&quot;user_id&quot;:40249689}}" data-hydro-click-hmac="6bfdb62396518a66d1a308c7b7d1c4b5a097a4d4c412773d8fdf2b9ea9a56345" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar carlosfab/template_portfolio" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:238567978,&quot;originating_url&quot;:&quot;https://github.com/carlosfab/template_portfolio/blob/master/banner.png&quot;,&quot;user_id&quot;:40249689}}" data-hydro-click-hmac="00c224003fe45924c9b1fe54cd1dbe27299e52516876462858c8d3ae502d0426" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         <span>
           Unstar
 </span></button>        <a class="social-count js-social-count" href="/carlosfab/template_portfolio/stargazers"
@@ -871,9 +871,9 @@
            75
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/carlosfab/template_portfolio/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QyQ/96lBv1z5YHsUFjDGxKLMExq9S/WVznr179uXBjAuplMKwXs1htUv1ydxB8iilDYmTmGS003rALLDA6vKlQ==" />
+    <form class="unstarred js-social-form" action="/carlosfab/template_portfolio/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5G8P+0q7O0SKGNKAuT1i/2zUHCzRqkiiixpgCVXT0OWJ7WMGIoGxnqZXfrPeCmyZWi4peA1zbnquYCclje8cQA==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star carlosfab/template_portfolio" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:238567978,&quot;originating_url&quot;:&quot;https://github.com/carlosfab/template_portfolio/blob/master/README.md&quot;,&quot;user_id&quot;:40249689}}" data-hydro-click-hmac="0f1c205ad2d222d00a168c6e50ac8d1aca7ac099086ca5532d7b535481be05f3" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star carlosfab/template_portfolio" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:238567978,&quot;originating_url&quot;:&quot;https://github.com/carlosfab/template_portfolio/blob/master/banner.png&quot;,&quot;user_id&quot;:40249689}}" data-hydro-click-hmac="cbe05894495a813d563f3acc63c3bc4ab5296a4b9aa65b98c245e42c89f7002b" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         <span>
           Star
 </span></button>        <a class="social-count js-social-count" href="/carlosfab/template_portfolio/stargazers"
@@ -885,8 +885,8 @@
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/carlosfab/template_portfolio/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TbSIEYN87mi93dkxZT7wOt2NTVG200mRTnn+Djd2SqwBsbxvtNB8OJy8La/dZH/U3MGuYY/Nhmm5zJSxg8oH3g==" />
-              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:238567978,&quot;originating_url&quot;:&quot;https://github.com/carlosfab/template_portfolio/blob/master/README.md&quot;,&quot;user_id&quot;:40249689}}" data-hydro-click-hmac="49d8d433500beec1aa06b7c9178e356b9b2d02b7a04760ecfa7ec3b1b8956ee7" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of carlosfab/template_portfolio to your account" aria-label="Fork your own copy of carlosfab/template_portfolio to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/carlosfab/template_portfolio/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ltgc6ba9jcyY6udKsyw6JHyJCMXCAB8vDoYFIHKi6Dba3SiXgREfnLmLE9QLdrXKfcXr9fse0Nf5M2+fxh6lRA==" />
+              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:238567978,&quot;originating_url&quot;:&quot;https://github.com/carlosfab/template_portfolio/blob/master/banner.png&quot;,&quot;user_id&quot;:40249689}}" data-hydro-click-hmac="8664969122aa458ab2d34119e4d340f5672e5721eaa211215fb9e3d7f4934de7" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of carlosfab/template_portfolio to your account" aria-label="Fork your own copy of carlosfab/template_portfolio to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
                 Fork
 </button></form>
       <a href="/carlosfab/template_portfolio/network/members" class="social-count"
@@ -1028,9 +1028,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/carlosfab/template_portfolio/blob/e2134aba81b690f0cd2a4369987cfed27396891f/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/carlosfab/template_portfolio/blob/e2134aba81b690f0cd2a4369987cfed27396891f/banner.png">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:ad9ffd18fdd4746284b4d223b0ad98ec9c1b089049568f55c360a2d8762856b6 -->
+    <!-- blob contrib key: blob_contributors:v22:cb835cfaace37493b2e8572a6f6afb2e194fdb6dddf1045711f0f045be59f251 -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1106,7 +1106,7 @@
             </div>
 
             <template data-target="ref-selector.itemTemplate">
-              <a href="https://github.com/carlosfab/template_portfolio/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+              <a href="https://github.com/carlosfab/template_portfolio/blob/{{ urlEncodedRefName }}/banner.png" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
                 <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
                 <span class="flex-1 css-truncate css-truncate-overflow {{ isFilteringClass }}">{{ refName }}</span>
                 <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span> 
@@ -1138,7 +1138,7 @@
             </template>
 
             <template data-target="ref-selector.itemTemplate">
-              <a href="https://github.com/carlosfab/template_portfolio/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+              <a href="https://github.com/carlosfab/template_portfolio/blob/{{ urlEncodedRefName }}/banner.png" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
                 <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
                 <span class="flex-1 css-truncate css-truncate-overflow {{ isFilteringClass }}">{{ refName }}</span>
                 <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span>
@@ -1167,7 +1167,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal mx-0 mx-md-3 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/carlosfab/template_portfolio"><span>template_portfolio</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/carlosfab/template_portfolio"><span>template_portfolio</span></a></span></span><span class="separator">/</span><strong class="final-path">banner.png</strong>
       </h2>
       <a href="/carlosfab/template_portfolio/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -1182,7 +1182,7 @@
 </summary>  <div>
     <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:238567978,&quot;originating_url&quot;:&quot;https://github.com/carlosfab/template_portfolio/blob/master/README.md&quot;,&quot;user_id&quot;:40249689}}" data-hydro-click-hmac="f681c487dfdb0b4adc1d5f9cf89fd602f528110418d294d5af32c135daf53f8c" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/carlosfab/template_portfolio/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:238567978,&quot;originating_url&quot;:&quot;https://github.com/carlosfab/template_portfolio/blob/master/banner.png&quot;,&quot;user_id&quot;:40249689}}" data-hydro-click-hmac="0b8a4b6e18052a95f5441095f3d3c08303a8de02e8ca8b5f165c30b01fe66678" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/carlosfab/template_portfolio/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -1196,7 +1196,7 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="banner.png" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
@@ -1217,23 +1217,23 @@
             <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/carlosfab/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/carlosfab">carlosfab</a>
 
               <span>
-                <a data-pjax="true" title="Update README.md" class="Link--secondary" href="/carlosfab/template_portfolio/commit/e2134aba81b690f0cd2a4369987cfed27396891f">Update README.md</a>
+                <a data-pjax="true" title="Add files via upload" class="Link--secondary" href="/carlosfab/template_portfolio/commit/4f90bd73744052d1f06aaa3a7731069f0e736141">Add files via upload</a>
               </span>
           </div>
 
 
           <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/carlosfab/template_portfolio/commit/e2134aba81b690f0cd2a4369987cfed27396891f/rollup?direction=e" class="d-inline"></include-fragment>
+            <include-fragment accept="text/fragment+html" src="/carlosfab/template_portfolio/commit/4f90bd73744052d1f06aaa3a7731069f0e736141/rollup?direction=e" class="d-inline"></include-fragment>
           </span>
         </div>
         <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-text-secondary no-wrap">
           <span class="d-none d-md-inline">
             <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/carlosfab/template_portfolio/commit/e2134aba81b690f0cd2a4369987cfed27396891f" data-pjax>e2134ab</a>
-            <span itemprop="dateModified"><relative-time datetime="2020-02-05T23:34:30Z" class="no-wrap">Feb 5, 2020</relative-time></span>
+            <a class="text-small text-mono Link--secondary" href="/carlosfab/template_portfolio/commit/4f90bd73744052d1f06aaa3a7731069f0e736141" data-pjax>4f90bd7</a>
+            <span itemprop="dateModified"><relative-time datetime="2020-02-05T23:25:57Z" class="no-wrap">Feb 5, 2020</relative-time></span>
           </span>
 
-          <a data-pjax href="/carlosfab/template_portfolio/commits/master/README.md" class="ml-3 no-wrap Link--primary no-underline">
+          <a data-pjax href="/carlosfab/template_portfolio/commits/master/banner.png" class="ml-3 no-wrap Link--primary no-underline">
             <svg class="octicon octicon-history text-gray" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path></svg>
             <span class="d-none d-sm-inline">
               <strong>History</strong>
@@ -1255,7 +1255,7 @@
       <details-dialog
         class="Box Box--overlay d-flex flex-column anim-fade-in fast"
         aria-label="Users who have contributed to this file"
-        src="/carlosfab/template_portfolio/contributors-list/master/README.md" preload>
+        src="/carlosfab/template_portfolio/contributors-list/master/banner.png" preload>
         <div class="Box-header">
           <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
@@ -1288,16 +1288,13 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      37 lines (23 sloc)
-      <span class="file-info-divider"></span>
-    2.01 KB
+    78.6 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a href="/carlosfab/template_portfolio/raw/master/README.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
-        <a href="/carlosfab/template_portfolio/blame/master/README.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
+      <a href="/carlosfab/template_portfolio/raw/master/banner.png" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Download</a>
     </div>
 
     <div>
@@ -1309,13 +1306,7 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/carlosfab/template_portfolio/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QinFLbPC7tekiZEB8lMRc/bFEhnVVZeWDovIkBVRQpumfyh29Djzjdjgj4a69oag390J0XJNwPA/2JVUJThHcw==" />
-            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-              aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
-              <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
-            </button>
-</form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/carlosfab/template_portfolio/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hBYTkGzFDwplnF9y11NRMkgWK/0JjPsPrgWAeJAxa7pE2zJH80GeS1YzqPJFtylllh/JF3Rfb2V7Jirbev4+fQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/carlosfab/template_portfolio/delete/master/banner.png" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BI9JOnGowqTR4U+EwPvGinwT7I73yzF3JIFh1JlqveXiVDL589IHkN+XR5qmxwWo1SbK2YLmQyLYEjf1ZFGggQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
@@ -1325,35 +1316,11 @@
 </div>
 
       
-  <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><p><a href="https://www.linkedin.com/in/carlosfab" rel="nofollow"><img src="https://camo.githubusercontent.com/6e71e7f02e185152c24261f4f0414ded24204872aaec30d9bedcabe5aea09ff4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f617574686f722d6361726c6f736661622d7265642e737667" alt="author" data-canonical-src="https://img.shields.io/badge/author-carlosfab-red.svg" style="max-width:100%;"></a> <a href="https://www.python.org/downloads/release/python-365/" rel="nofollow"><img src="https://camo.githubusercontent.com/09b787c051c63b5b24902a5cf67051d20a8d81ec27c092da13d0f07283ba1abc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d332e372b2d626c75652e737667" alt="" data-canonical-src="https://img.shields.io/badge/python-3.7+-blue.svg" style="max-width:100%;"></a> <a href="http://perso.crans.org/besson/LICENSE.html" rel="nofollow"><img src="https://camo.githubusercontent.com/400c4e52df43f6a0ab8a89b74b1a78d1a64da56a7848b9110c9d2991bb7c3105/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d47504c76332d626c75652e737667" alt="GPLv3 license" data-canonical-src="https://img.shields.io/badge/License-GPLv3-blue.svg" style="max-width:100%;"></a> <a href="https://github.com/carlosfab/data_science/issues"><img src="https://camo.githubusercontent.com/f5054ffcd4245c10d3ec85ef059e07aacf787b560f83ad4aec2236364437d097/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e747269627574696f6e732d77656c636f6d652d627269676874677265656e2e7376673f7374796c653d666c6174" alt="contributions welcome" data-canonical-src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" style="max-width:100%;"></a></p>
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="/carlosfab/template_portfolio/blob/master/banner.png"><img src="/carlosfab/template_portfolio/raw/master/banner.png" style="max-width:100%;"></a>
-</p>
-<h1><a id="user-content-carlos-melo" class="anchor" aria-hidden="true" href="#carlos-melo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Carlos Melo</h1>
-<p><sub><em>Lead Data Scientist</em> at Space Operations Center</sub></p>
-<p>As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.</p>
-<p>My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).</p>
-<p><strong>Background in:</strong> Python, Machine Learning, Space Operations and Mathematical Optimisation.</p>
-<p><strong>Links:</strong></p>
-<ul>
-<li><a href="http://sigmoidal.ai" rel="nofollow">Blog</a></li>
-<li><a href="https://www.linkedin.com/in/carlosfab" rel="nofollow">LinkedIn</a></li>
-<li><a href="https://www.medium.com" rel="nofollow">Medium</a></li>
-</ul>
-<h2><a id="user-content-projetos" class="anchor" aria-hidden="true" href="#projetos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Projetos:</h2>
-<p>Veja os tutoriais publicados do Sigmoidal:</p>
-<ul>
-<li><strong>Como usar o Histograma para Data Science:</strong> <a href="https://bit.ly/2L2cMwy" rel="nofollow">https://bit.ly/2L2cMwy</a></li>
-<li><strong>Como Implementar Regressão Linear com Python:</strong> <a href="https://bit.ly/2Li5pzY" rel="nofollow">https://bit.ly/2Li5pzY</a></li>
-<li><strong>Data Science: Investigando o naufrágio do Titanic:</strong> <a href="https://bit.ly/2Ubr5SH" rel="nofollow">https://bit.ly/2Ubr5SH</a></li>
-<li><strong>Como Tratar Dados Ausentes com Pandas:</strong> <a href="https://bit.ly/31KWSMN" rel="nofollow">https://bit.ly/31KWSMN</a></li>
-<li><strong>XGBoost: aprenda este algoritmo de Machine Learning em Python:</strong> <a href="https://bit.ly/2UbRhws" rel="nofollow">https://bit.ly/2UbRhws</a></li>
-<li><strong>Como criar uma Wordcloud em Python:</strong> <a href="https://bit.ly/2OxsphM" rel="nofollow">https://bit.ly/2OxsphM</a></li>
-<li><strong>Como lidar com dados desbalanceados:</strong> <a href="https://bit.ly/2ZlaNsV" rel="nofollow">https://bit.ly/2ZlaNsV</a></li>
-</ul>
-<hr>
-</article>
+
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text  gist-border-0">
+      <div class="text-center p-3">
+          <span class="border-wrap"><img src="/carlosfab/template_portfolio/blob/master/banner.png?raw=true" alt="banner.png"></span>
+      </div>
   </div>
 
     </div>
